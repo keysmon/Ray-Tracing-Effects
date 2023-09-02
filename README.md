@@ -8,3 +8,6 @@ Features implemented:
 4. Reflection is implemented by shooting another reflected ray from the intersection point outward. 
 5. Perlin Noise with linear and cubic interpolation
    
+Sample output
+
+![](img/result.png)
